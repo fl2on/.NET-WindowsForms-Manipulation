@@ -4,11 +4,6 @@ DnWizard 🧙 is a powerful tool built with dnlib that allows you to bypass logi
 # Warning ⚠️ 
 As a developer, I created this tool with the intention of demonstrating the capabilities of dnlib and showcasing how it can be used to bypass login systems. However, it is important to note that the use of this tool for any illegal or malicious activity is strictly prohibited. I am not responsible for any damages or consequences that may arise from the use of this tool. This tool should only be used for educational or research purposes to better understand how these types of systems can be bypassed and to develop more secure applications in the future.
 
-## Translation
-| 🇺🇸 | 🇨🇳 | 🇹🇼 | 🇮🇳 | 🇫🇷 | 🇦🇪 | 🇩🇪 | 🇯🇵 | 🇪🇸 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [English](README.md) | [简体中文](README.zh-CN.md) | [繁体中文](README.zh-TW.md) | [हिंदी](README.hi.md) | [Française](README.fr.md) | [عربى](README.ar.md) | [Deutsch](README.de.md) | [日本語](README.ja.md) | [Español](README.es.md) |
-
 ## Screenshots
 
 ![App Screenshot](https://cdn.discordapp.com/attachments/1008195045960204349/1098068925817831527/New_Website_Blue_Mockup_Instagram_-_Laptop_1.gif)
