@@ -13,7 +13,6 @@ As a developer, I created this tool with the intention of demonstrating the capa
 
 ![App Screenshot](https://cdn.discordapp.com/attachments/1008195045960204349/1098068925817831527/New_Website_Blue_Mockup_Instagram_-_Laptop_1.gif)
 
-
 ## FAQ
 
 #### Q: What is this application?
