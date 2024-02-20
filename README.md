@@ -22,10 +22,6 @@ A: The application itself is legal to use, but it is important to note that modi
 
 A: No, this application is intended for educational purposes only and should not be used for malicious intent. The responsibility for the usage of this application lies solely with the user.
 
-#### Q: How do I use this application?
-
-A: After downloading the application, open a command prompt and navigate to the directory where the application is located. Then, run the application using the command ChangeForm.exe <path-to-assembly>. Follow the prompts to select the form you want to change to.
-
 #### Q: What platforms does this application support?
 
 A: This application is built using .NET and should work on any platform that supports the .NET framework.
