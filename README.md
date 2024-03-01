@@ -6,7 +6,7 @@ As a developer, I created this tool with the intention of demonstrating the capa
 
 ## Screenshots
 
-![App Screenshot](https://cdn.discordapp.com/attachments/1008195045960204349/1098068925817831527/New_Website_Blue_Mockup_Instagram_-_Laptop_1.gif)
+![App Screenshot](https://github.com/qzxtu/.NET-WindowsForms-Manipulation/assets/69091361/04cfa5f2-41fe-49b6-80dc-668f85d58f19)
 
 ## FAQ
 
