@@ -6,7 +6,7 @@ As a developer, I created this tool with the intention of demonstrating the capa
 
 ## Screenshots
 
-![App Screenshot](https://github.com/qzxtu/.NET-WindowsForms-Manipulation/assets/69091361/04cfa5f2-41fe-49b6-80dc-668f85d58f19)
+![Dnwizard](https://github.com/qzxtu/.NET-WindowsForms-Manipulation/assets/69091361/90568f45-5c8d-4a6f-a9b9-ad5d0bae08fb)
 
 ## FAQ
 
