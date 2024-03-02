@@ -1,7 +1,9 @@
 # DnWizard
+
 DnWizard 🧙 is a powerful tool built with dnlib that allows you to bypass login systems and modify .NET assemblies with ease. With its intuitive command-line interface and advanced features, you can quickly analyze and manipulate .NET assemblies to suit your needs. However, please note that this tool is meant for educational purposes only and should not be used for malicious intent. The author takes no responsibility for any misuse of this tool. Try it out and see the magic for yourself!"
 
-# Warning ⚠️ 
+# Warning ⚠️
+
 As a developer, I created this tool with the intention of demonstrating the capabilities of dnlib and showcasing how it can be used to bypass login systems. However, it is important to note that the use of this tool for any illegal or malicious activity is strictly prohibited. I am not responsible for any damages or consequences that may arise from the use of this tool. This tool should only be used for educational or research purposes to better understand how these types of systems can be bypassed and to develop more secure applications in the future.
 
 ## Screenshots
@@ -25,10 +27,10 @@ A: No, this application is intended for educational purposes only and should not
 #### Q: What platforms does this application support?
 
 A: This application is built using .NET and should work on any platform that supports the .NET framework.
+
 ## Authors
 
 - [@qzxtu](https://www.github.com/qzxtu)
-
 
 ## License
 
@@ -36,5 +38,5 @@ A: This application is built using .NET and should work on any platform that sup
 
 ## Support
 
- [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/nova355killer)   
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/nova355killer)
  [![Ko-Fi](https://img.shields.io/badge/kofi-00457C?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/nova355)
