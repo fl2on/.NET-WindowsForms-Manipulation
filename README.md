@@ -30,7 +30,7 @@ A: This application is built using .NET and should work on any platform that sup
 
 ## Authors
 
-- [@qzxtu](https://www.github.com/qzxtu)
+- [@fl2on](https://www.github.com/fl2on)
 
 ## License
 
